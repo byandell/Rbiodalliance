@@ -1,0 +1,5 @@
+*.html
+*.pdf
+*.Rproj
+.Rproj.user
+.DS_Store

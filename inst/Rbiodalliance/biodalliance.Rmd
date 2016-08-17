@@ -1,0 +1,12 @@
+---
+title: "biodalliance.js example"
+output: html_document
+---
+
+
+```{r}
+library(Rbiodalliance)
+biodalliance("3",135,145)
+```
+
+

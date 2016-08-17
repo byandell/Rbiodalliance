@@ -1,0 +1,7 @@
+dependencies:
+  - name: biodalliance
+    version: 0.13
+    src: htmlwidgets/lib/release-0.13/
+    script: 
+      - biodalliance.js
+      - dalliance-compiled.js
