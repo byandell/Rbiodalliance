@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 ### Rbiodalliance
 
 
@@ -78,11 +75,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
-
-
-
-
-=======
-# Rbiodalliance
-R wrapper for biodalliance.ort
->>>>>>> b111dc4693b790375df369c0437dba720cc9faea
