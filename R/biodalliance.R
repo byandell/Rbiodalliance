@@ -13,8 +13,8 @@ biodalliance <- function(chr_id = NULL,
   # create a list that contains the settings
   settings <- list(
     chr = chr_id,
-    viewStart = start_val * 1e6,
-    viewEnd = end_val * 1e6
+    viewStart = as.character(start_val * 1e6),
+    viewEnd = as.character(end_val * 1e6)
   )
 
   # create the widget
@@ -26,7 +26,7 @@ biodalliance <- function(chr_id = NULL,
 biodallianceOutput <- function(outputId, 
                                width = "100%", height = "400px") {
   shinyWidgetOutput(outputId, "biodalliance", 
-                    width, height, package = "biodalliance")
+                    width, height, package = "Rbiodalliance")
 }
 
 #' @export

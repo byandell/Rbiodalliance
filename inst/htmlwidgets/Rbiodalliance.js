@@ -1,6 +1,6 @@
 HTMLWidgets.widget({
 
-  name: "biodalliance",
+  name: "Rbiodalliance",
 
   type: "output",
 
@@ -16,8 +16,9 @@ HTMLWidgets.widget({
     return {
       renderValue: function(x) {
 
+        el.innerText = x.chr;
         // apply settings
-        for (var name in x)
+         for (var name in x)
           bio.settings(name, x[name]);
 
         // update the biodalliance object
