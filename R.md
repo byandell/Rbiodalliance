@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ### Rbiodalliance
@@ -81,3 +82,7 @@ THE SOFTWARE.
 
 
 
+=======
+# Rbiodalliance
+R wrapper for biodalliance.ort
+>>>>>>> b111dc4693b790375df369c0437dba720cc9faea
