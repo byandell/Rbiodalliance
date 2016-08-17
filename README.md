@@ -1,5 +1,6 @@
 ### Rbiodalliance
 
+**This does not work yet. Comments/edits appreciated. Brian**
 
 An R package with an interface to the [sigma.js](http://sigmajs.org) graph visualization library.
 
